@@ -15,7 +15,7 @@ https://backdropcms.org/guide/modules
 
 In your custom module, you may use the following sample code to generate sample files.
 
-```
+```php
   $phpWord = new \PhpOffice\PhpWord\PhpWord();
   \PhpOffice\PhpWord\Settings::setOutputEscapingEnabled(true); // This automatically escapes ampersands etc.
 
