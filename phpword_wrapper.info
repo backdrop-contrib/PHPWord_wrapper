@@ -1,0 +1,5 @@
+name = PHPWord Wrapper
+description = Makes available the PHPWord and PHPOffice-Common libraries 
+package = Custom
+backdrop = 1.x
+type = module
