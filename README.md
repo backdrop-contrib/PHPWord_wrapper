@@ -2,9 +2,10 @@
 
 This module is simply a wrapper around the PHPWord and PHPOffice-Common php libraries. It allows Backdrop programmers to generate MS Word and other files through coding.
 
-NOTE: This module uses library PHPWord-0.18.2
-
-NOTE 2: I have added a custom Autoloader.php file to the library, located under `libraries/PHPWord/src/Phpword/Autoloader.php`
+## Details
+* This module uses library [PHPWord-0.18.2](https://github.com/PHPOffice/PHPWord/releases/tag/0.18.2)
+* Documentation on PHPWord [available here](https://phpword.readthedocs.io/en/latest/)
+* This module adds a custom Autoloader.php file to the library, located under `libraries/PHPWord/src/Phpword/Autoloader.php`
 
 ## Installation
 
