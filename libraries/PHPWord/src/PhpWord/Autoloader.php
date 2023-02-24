@@ -1,6 +1,6 @@
 <?php
 /**
- * This file was added by me, Alejandro Cremaschi, to autoload the PHPWord classes
+ * This file was added for the Backdrop module phpword_wrapper to autoload the PHPWord classes
  *
  */
 
